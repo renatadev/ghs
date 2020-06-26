@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Footer = styled.div`
     width: 100%;
-    height: 400px;
+    height: 100%;
     background-color: #162238;
     text-align:center;
     display: flex;
@@ -13,12 +13,13 @@ export const Footer = styled.div`
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-
+    padding-top: 20px;
 
 
     @media screen and (min-width: 900px) {
         flex-direction: row;
         height: 280px;
+        padding-top: 0;
     }
 `
 
