@@ -29,7 +29,7 @@ export const Element = styled.div`
 export const Link = styled.a`
     text-decoration: none;
     color: white;
-
+    
     &:hover {
         opacity: 0.8;
     }

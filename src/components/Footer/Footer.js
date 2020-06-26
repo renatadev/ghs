@@ -18,7 +18,7 @@ export default () => {
             </S.Element>
             <S.Element>
            <h3>HELPFUL LINKS</h3>
-           <S.Link href="https://www.gardenhouseschool.co.uk/" target="_blank" rel="noopener noreferrer">GHS School Website</S.Link><br/>
+           <S.Link href="https://www.gardenhouseschool.co.uk/" target="_blank" rel="noopener noreferrer">GHS Website</S.Link><br/>
            <S.Link href="https://www.gardenhouseschool.co.uk/parents-portal/music-tuition" target="_blank" rel="noopener noreferrer">Music Lessons Sign-Up</S.Link><br/>
             <br/><br/>
            </S.Element>
