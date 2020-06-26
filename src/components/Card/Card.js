@@ -7,7 +7,7 @@ export default ({className, name, videoSrc}) => {
         <S.Container>
             <S.Wrapper>
                 <S.Card className={className} >
-                    <ReactPlayer url={videoSrc} width="100%" height="260px" light="https://www.billingsandedmonds.co.uk/bannerimg61.jpeg"/>
+                    <ReactPlayer url={videoSrc} controls width="100%" height="260px" light="https://www.billingsandedmonds.co.uk/bannerimg61.jpeg"/>
                     <S.Title>{name}</S.Title>
                 </S.Card>
             </S.Wrapper>
