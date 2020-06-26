@@ -10,6 +10,7 @@ flex-wrap: wrap;
 
 @media screen and (min-width: 600px) {
     flex-direction: row;
+    padding: 0 60px;
 }
 `
 
