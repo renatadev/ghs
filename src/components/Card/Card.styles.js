@@ -8,6 +8,13 @@ export const Wrapper = styled.div`
 height: 340px;
 background-color: #162238;
 padding: 10px;
+box-shadow: 4px 4px 4px grey;
+border-radius: 5px;
+
+&:hover {
+    opacity: 0.9;
+}
+
 `
 
 export const Card = styled.div`
