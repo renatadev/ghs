@@ -5,7 +5,7 @@ export default () => {
     return (
         <S.Cards>
             <S.SingleCard videoSrc="https://youtu.be/ozLA0fKvA-Y" name="Message from Head of Music"/>
-            <S.SingleCard videoSrc="https://youtu.be/KeWA0AYYEVU" name="Nursery Medley"/>
+            <S.SingleCard videoSrc="https://youtu.be/KeWA0AYYEVU" name="Nursery Medley - Teacher Ensemble"/>
             <S.SingleCard videoSrc="https://youtu.be/3jKw5d05G2U" name="Cello - Miss Axelle"/>
             <S.SingleCard videoSrc="https://youtu.be/vYdrhSugRVM" name="Drums - Mr James"/>
             <S.SingleCard videoSrc="https://youtu.be/RD_IaXEx4gU" name="Flute, Clarinet & Saxophone - Miss Gemma"/>
