@@ -8,7 +8,7 @@ export default () => {
            <h3>OUR ADDRESS</h3>
            <p>Garden House School <br/>
             Turks Row, Chelsea, London, SW3 4TW <br/>
-            © Garden House School 2020 <br/>
+            © Garden House School 2021 <br/>
            </p>
            </S.Element>
            <S.Element>
