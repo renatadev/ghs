@@ -5,8 +5,9 @@ export const Cards = styled.div`
 display: flex;
 flex-direction: column;
 align-items: center;
-justify-content: space-around;
+justify-content: center;
 flex-wrap: wrap;
+gap: 24px;
 
 @media screen and (min-width: 600px) {
     flex-direction: row;

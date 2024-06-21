@@ -11,6 +11,7 @@ export default () => {
             <S.SingleCard videoSrc="https://youtu.be/Y_YEKhxmjxg" name="Guitar - Mr Chris"/>
             <S.SingleCard videoSrc="https://youtu.be/cQoZMds6lzo" name="Piano - Miss Beverley"/>
             <S.SingleCard videoSrc="https://youtu.be/_bYqIztF5v8" name="Piano - Mr Olly"/>
+            <S.SingleCard videoSrc="https://youtu.be/_MKNEsz4zlc?si=P5xqnqhb41JoqA7A" name="Singing - Miss Antoinette"/>
             <S.SingleCard videoSrc="https://youtu.be/9pbRtbRkVao" name="Singing - Miss Vanessa"/>
             <S.SingleCard videoSrc="https://youtu.be/eqR94PIrNnY" name="Trumpet - Mr Paul"/>
             <S.SingleCard videoSrc="https://youtu.be/9pB-JESSnEI" name="Violin - Miss Diane"/>
